@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kikimasu1, I'm currently an information and computing science senior.
-- 👀 I’m interested in reading/coding/journaling/travelling.
+- 👋 Hi, I’m @kikimasu1, I'm currently an information and computing science graduate.
 - 🌱 I’m currently learning full stack web development.
-- 💞️ I’m looking to collaborate on small doses of machine learning projects.
 - 📫 How to reach me : Please DM me on github
 
 <!---
